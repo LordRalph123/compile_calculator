@@ -1,0 +1,2 @@
+C:/Users/ADMIN/Desktop/compile/compile_first/compile_calculator/android/app/.cxx/Debug/p2y1e13h/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Desktop/compile/compile_first/compile_calculator/android/app/.cxx/Debug/p2y1e13h/x86_64/CMakeFiles/rebuild_cache.dir
