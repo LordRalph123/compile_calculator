@@ -1,16 +1,36 @@
 # compile_calculator
+# Advanced Flutter Calculator
 
-A new Flutter project.
+![Calculator App Screenshot](assets/calculator_screenshot.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+A comprehensive calculator application built with Flutter that demonstrates advanced Dart concepts and state management. This app features basic and advanced mathematical operations, memory functions, and calculation history tracking.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Basic Operations**: Addition, Subtraction, Multiplication, Division
+- **Advanced Functions**: Square root, Percentage, Sign toggle
+- **Memory Operations**: MC, MR, M+, M-
+- **History Tracking**: View last 5 calculations
+- **Error Handling**: Division by zero, invalid operations
+- **Responsive UI**: Adapts to different screen sizes
+- **Visual Feedback**: Clear button states and operation indicators
+- **Professional Design**: Clean interface with intuitive layout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technical Highlights
+
+- State management using `StatefulWidget`
+- Proper separation of business logic and UI
+- Comprehensive error handling
+- Display formatting for different number lengths
+- History tracking with toggle functionality
+- Memory operations implementation
+- Responsive button layout
+
+## Installation
+
+1. Ensure you have Flutter installed (version 3.0.0 or higher)
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/LordRalph123/compile_calculator.git
+
