@@ -32,4 +32,4 @@ A comprehensive calculator application built with Flutter that demonstrates adva
 1. Ensure you have Flutter installed (version 3.0.0 or higher)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-calculator.git
+   git clone https://github.com/LordRalph123/compile_calculator.git
